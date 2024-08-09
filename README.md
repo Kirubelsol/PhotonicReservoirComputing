@@ -8,6 +8,6 @@ This repo includes the `python` codes used to generate the input signals (includ
 - **Numerical Simulation**: to test the equation describing the reservoir and test the performance on different tasks. These are numerical tests, but tests using the actual optoelectronic component in Interconnect and the lab provide the real results.
 
 <div align="center">
-    <img src="./img/labsetup.jpg" alt="Experiment Setup" width="300"/> <br>
+    <img src="./img/labsetup.jpg" alt="Experiment Setup" width="400"/> <br>
     Photonic Reservoir Experiment Setup 
 </div>
